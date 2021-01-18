@@ -9,7 +9,7 @@ module.exports = {
 const exampleEmbed = new Discord.MessageEmbed()
 	.setColor('#0099ff')
 	.setTitle('Annonce')
-    .setDescription('Bonsoir , je vous annonce une nouvelle , mon créateur ma donner une nouvelle commande^^ c est la commande : .chrono , avec vous pouvez démarez un chronomètre de 1 minute , vous pouvez l arrêter avec .stop ; à bientôt !')
+    .setDescription('Par exemple keyzen ,\n Je suis une annonce type^^')
     .setTimestamp()
     .setFooter('Amusez-vous bien^^', 'https://cdn.discordapp.com/avatars/559081819920662538/08d5db049d31dd414f6315de81814f5e.webp');
 
