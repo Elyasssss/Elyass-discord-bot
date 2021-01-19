@@ -26,7 +26,3 @@ const exampleEmbed = new Discord.MessageEmbed()
     message.channel.send(exampleEmbed);
     
 }};
-
-    message.channel.send(exampleEmbed);
-    
-    };
