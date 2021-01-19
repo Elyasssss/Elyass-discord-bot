@@ -29,4 +29,4 @@ const exampleEmbed = new Discord.MessageEmbed()
 
     message.channel.send(exampleEmbed);
     
-    }};
+    };
