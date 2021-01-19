@@ -7,9 +7,6 @@ module.exports = {
 
 //Dans l'embed.
 const exampleEmbed = new Discord.MessageEmbed()
-
-//Dans l'embed.
-const exampleEmbed = new Discord.MessageEmbed()
 	.setColor('#0099ff')
 	.setTitle('Annonce sans @')
 	.setAuthor('Elyass Bot', 'https://cdn.discordapp.com/avatars/736981928518877267/b52c6cdaf6454854e6d3e50ded050dc9.png')
