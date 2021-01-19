@@ -24,5 +24,5 @@ const exampleEmbed = new Discord.MessageEmbed()
 	.setFooter('Amusez-vous bien^^', 'https://cdn.discordapp.com/avatars/559081819920662538/08d5db049d31dd414f6315de81814f5e.webp');
     
     message.channel.send(exampleEmbed);
-    
-};
+
+    }};
