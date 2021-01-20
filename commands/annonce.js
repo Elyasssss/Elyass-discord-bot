@@ -18,7 +18,7 @@ const exampleEmbed = new Discord.MessageEmbed()
 		{ name: 'Je serai donc un bot 24h/24 !', value: 'Et 7j/7 !', inline: true },
 	)
 	.addField('Et je vous souhaite donc...', 'Une bonne soirée à tous ! :D', true)
-	.setImage('https://cdn.discordapp.com/attachments/798882442336534588/801429145178996776/unknown.png')
+	.setImage('https://cdn.discordapp.com/attachments/767023914269540353/801431963889303633/unknown.png')
 	.setTimestamp()
 	.setFooter('Amusez-vous bien^^', 'https://cdn.discordapp.com/avatars/559081819920662538/08d5db049d31dd414f6315de81814f5e.webp');
     
