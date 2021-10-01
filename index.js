@@ -16,7 +16,7 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
 console.log('Ready!');
-client.user.setActivity(" .help | !  ᏋᏝᎩᏗᏕᏕ#0561 ", {type: "STREAMING", url: "https://www.twitch.tv/pikaly_elyass" }); 
+client.user.setActivity(" .help | !  Elyass.#0561 ", {type: "STREAMING", url: "https://www.twitch.tv/mr_elyass" }); 
 });
 
 client.on(`message`, message => {
